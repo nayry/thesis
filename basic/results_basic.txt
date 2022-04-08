@@ -1,0 +1,40 @@
+Epoch #1
+Results: mean: -64.3 +/- 187.2, min: -385.0, max: 95.0,
+
+Testing...
+Results: mean: -12.8 +/- 156.5, min: -365.0 max: 95.0
+Saving the network weights to: ./basic/model-basic.pth
+Total elapsed time: 3.96 minutes
+
+Epoch #2
+Results: mean: 37.9 +/- 109.6, min: -360.0, max: 95.0,
+
+Testing...
+Results: mean: 47.3 +/- 89.1, min: -355.0 max: 95.0
+Saving the network weights to: ./basic/model-basic.pth
+Total elapsed time: 7.70 minutes
+
+Epoch #3
+Results: mean: 73.0 +/- 45.0, min: -340.0, max: 95.0,
+
+Testing...
+Results: mean: 77.8 +/- 25.6, min: -68.0 max: 95.0
+Saving the network weights to: ./basic/model-basic.pth
+Total elapsed time: 11.65 minutes
+
+Epoch #4
+Results: mean: 75.8 +/- 37.4, min: -310.0, max: 95.0,
+
+Testing...
+Results: mean: 78.6 +/- 25.8, min: -72.0 max: 95.0
+Saving the network weights to: ./basic/model-basic.pth
+Total elapsed time: 15.38 minutes
+
+Epoch #5
+Results: mean: 78.4 +/- 35.9, min: -305.0, max: 95.0,
+
+Testing...
+Results: mean: 77.4 +/- 44.5, min: -305.0 max: 95.0
+Saving the network weights to: ./basic/model-basic.pth
+Total elapsed time: 19.15 minutes
+======================================

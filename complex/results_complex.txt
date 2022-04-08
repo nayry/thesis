@@ -1,0 +1,40 @@
+Epoch #1
+Results: mean: -1.4 +/- 95.0, min: -395.0, max: 95.0,
+
+Testing...
+Results: mean: 7.2 +/- 105.4, min: -365.0 max: 95.0
+Saving the network weights to: ./complex/model-complex.pth
+Total elapsed time: 3.96 minutes
+
+Epoch #2
+Results: mean: 44.0 +/- 41.2, min: -395.0, max: 95.0,
+
+Testing...
+Results: mean: 50.0 +/- 34.8, min: -52.0 max: 95.0
+Saving the network weights to: ./complex/model-complex.pth
+Total elapsed time: 7.65 minutes
+
+Epoch #3
+Results: mean: 48.7 +/- 40.9, min: -315.0, max: 95.0,
+
+Testing...
+Results: mean: 39.0 +/- 55.4, min: -310.0 max: 95.0
+Saving the network weights to: ./complex/model-complex.pth
+Total elapsed time: 11.42 minutes
+
+Epoch #4
+Results: mean: 52.5 +/- 46.4, min: -400.0, max: 95.0,
+
+Testing...
+Results: mean: 54.4 +/- 71.3, min: -400.0 max: 95.0
+Saving the network weights to: ./complex/model-complex.pth
+Total elapsed time: 15.12 minutes
+
+Epoch #5
+Results: mean: 58.6 +/- 40.9, min: -410.0, max: 95.0,
+
+Testing...
+Results: mean: 60.0 +/- 30.0, min: -7.0 max: 95.0
+Saving the network weights to: ./complex/model-complex.pth
+Total elapsed time: 18.81 minutes
+======================================
